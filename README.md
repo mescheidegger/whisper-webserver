@@ -1,7 +1,6 @@
 1. To run in development mode: 
 
-set FLASK_ENV=development
-python app.py
+set FLASK_ENV=development && python app.py
 
 2. To run in production mode:
 

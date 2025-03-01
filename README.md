@@ -1,3 +1,6 @@
+## Third-Party Dependencies
+This project uses third-party libraries and external APIs (e.g., OpenAI). Their respective licenses and terms of service apply. This project is licensed under MIT, but usage of third-party services must comply with their own terms.
+
 This project contains an implementation for the open source AI transcription service Whisper.
 
 The development was completed from prompt engineering using GPT4.
